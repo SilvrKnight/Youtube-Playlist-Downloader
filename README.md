@@ -1,17 +1,23 @@
 # YouTube Playlist Downloader 🎥📥
 
-https://img.shields.io/github/repo-size/SilvrKnight/Youtube-Playlist-Downloader
+Great! Here's a revised README section for your project with the provided information:
 
-https://img.shields.io/github/contributors/SilvrKnight/Youtube-Playlist-Downloader
+---
 
-https://img.shields.io/github/stars/SilvrKnight/Youtube-Playlist-Downloader?style=social
+# YouTube Playlist Downloader 🎥📥
 
-https://img.shields.io/github/forks/SilvrKnight/Youtube-Playlist-Downloader?style=social
+![GitHub repo size](https://img.shields.io/github/repo-size/SilvrKnight/Youtube-Playlist-Downloader)
+![GitHub contributors](https://img.shields.io/github/contributors/SilvrKnight/Youtube-Playlist-Downloader)
+![GitHub stars](https://img.shields.io/github/stars/SilvrKnight/Youtube-Playlist-Downloader?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SilvrKnight/Youtube-Playlist-Downloader?style=social)
 
 Download YouTube playlists effortlessly using Python and yt_dlp.
 
-Authors: [SilvrKnight](https://github.com/SilvrKnight) & Akanksha 🚀
+Authors: SilvrKnight & Akanksha 🚀
 
+---
+
+Feel free to further customize and expand this README based on additional features or specific instructions for your project.
 ---
 
 ## Features 🌟
