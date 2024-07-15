@@ -1,82 +1,71 @@
-```markdown
-# YouTube Playlist Downloader 🎥
+# YouTube Playlist Downloader 🎥📥
 
-A powerful and efficient tool for downloading entire YouTube playlists using `yt-dlp`, `tqdm`, and `colorama` for a seamless and visually appealing user experience.
+https://img.shields.io/github/repo-size/SilvrKnight/Youtube-Playlist-Downloader
 
-## Features ✨
+https://img.shields.io/github/contributors/SilvrKnight/Youtube-Playlist-Downloader
 
-- **Concurrent Downloads**: Utilize multi-threading to download multiple videos simultaneously, significantly reducing total download time.
-- **Download Progress Visualization**: Real-time progress bars for each video download, powered by `tqdm`.
-- **Rich Terminal Output**: Enhanced console output with colors for better readability and user interaction, thanks to `colorama`.
-- **Customizable Format Selection**: Automatically selects the best available video and audio format for each download.
-- **Robust Error Handling**: Gracefully handles errors and provides informative messages to the user.
+https://img.shields.io/github/stars/SilvrKnight/Youtube-Playlist-Downloader?style=social
 
-## Installation 🛠️
+https://img.shields.io/github/forks/SilvrKnight/Youtube-Playlist-Downloader?style=social
+
+Download YouTube playlists effortlessly using Python and yt_dlp.
+
+Authors: [SilvrKnight](https://github.com/SilvrKnight) & Akanksha 🚀
+
+---
+
+## Features 🌟
+
+- **Multi-threaded downloading:** Concurrently download multiple videos for optimal speed 🚀.
+- **Progress tracking:** Visualize download progress with tqdm's interactive progress bar 📊.
+- **Robust error handling:** Handle download failures gracefully with detailed error messages 🔍.
+
+## Screenshots 📸
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c96ebe98-4993-453b-bbc7-267d3de71f73/c9d31832-812f-4a7d-9844-b2eeac3f567f/Untitled.png)
+
+![screenshots/screenshot1.png](screenshots/screenshot1.png)
+
+![screenshots/screenshot2.png](screenshots/screenshot2.png)
+
+---
+
+## Installation Guide 🛠️
 
 ### Prerequisites
 
-- **Python 3.6+**: Ensure you have Python 3.6 or higher installed. You can download it from [python.org](https://www.python.org/downloads/).
-- **Virtual Environment (Optional but Recommended)**: It is advisable to use a virtual environment to manage dependencies.
+- Python 3.x 🐍
+- `yt-dlp` library (`pip install yt-dlp`)
+- Additional dependencies specified in `requirements.txt`
 
-### Steps
+### Setup
 
-1. **Clone the Repository**:
-    ```sh
-    git clone https://github.com/Akanksha54/Youtube-Playlist-Downloader.git
+1. **Clone the repository:**
+    
+    ```bash
+    git clone <https://github.com/SilvrKnight/Youtube-Playlist-Downloader.git>
     cd Youtube-Playlist-Downloader
+    
     ```
-
-
-
-2. **Install Dependencies**:
-    ```sh
-    pip install -r requirements.txt
+    
+2. **Install dependencies:**
+    
+    ```python
+    pip3 install -r requirements.txt
+    
     ```
+    
 
 ## Usage 🚀
 
-### Running the Script
-
-1. **Execute the Script**:
-    ```sh
+1. **Run the script:**
+    
+    ```python
     python3 Playlist-x-Downloader.py
+    
     ```
+    
+2. **Enter the playlist URL when prompted.**
+3. **Follow the on-screen instructions to start downloading your playlist!**
 
-2. **Enter Playlist URL**: Provide the URL of the YouTube playlist when prompted.
-    ```plaintext
-    Enter Playlist URL: https://www.youtube.com/playlist?list=PLw-VjHDlEOguPYJj77O4VnmI8KeDjZdms
-    ```
-
-3. **Download Process**:
-    - The script will fetch playlist details and display the total number of videos.
-    - It will start downloading videos concurrently, displaying progress bars for each.
-
-### Example Output
-
-```plaintext
-Enter Playlist URL: https://www.youtube.com/playlist?list=PLw-VjHDlEOguPYJj77O4VnmI8KeDjZdms
-
-Playlist: My Favorite Playlist
-Playlist contains 15 videos.
-
-Downloading Started...
-
-Thread-1 is downloading: Video Title 1
-Thread-2 is downloading: Video Title 2
-...
-Thread-1 --> Video Title 1 Downloaded at 1.23 MB/s
-Thread-2 --> Video Title 2 Downloaded at 1.56 MB/s
-...
-```
-
-## Authors ✍️
-
-- **SilvrKnight** 
-  - GitHub: [github.com/silvrknight](https://github.com/silvrknight)
-- **Akanksha**
-  - GitHub: [github.com/Akanksha54](https://github.com/Akanksha54)
-
-## License 📄
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+---
