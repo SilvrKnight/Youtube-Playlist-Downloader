@@ -1,7 +1,5 @@
 # YouTube Playlist Downloader 🎥📥
 
-Great! Here's a revised README section for your project with the provided information:
-
 ---
 
 # YouTube Playlist Downloader 🎥📥
@@ -13,7 +11,7 @@ Great! Here's a revised README section for your project with the provided inform
 
 Download YouTube playlists effortlessly using Python and yt_dlp.
 
-Authors: SilvrKnight & Akanksha 🚀
+Authors: [SilvrKnight](https://github.com/SilvrKnight) & [Akanksha](https://github.com/Akanksha54) 🚀
 
 ---
 
@@ -28,11 +26,7 @@ Feel free to further customize and expand this README based on additional featur
 
 ## Screenshots 📸
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c96ebe98-4993-453b-bbc7-267d3de71f73/c9d31832-812f-4a7d-9844-b2eeac3f567f/Untitled.png)
-
-![screenshots/screenshot1.png](screenshots/screenshot1.png)
-
-![screenshots/screenshot2.png](screenshots/screenshot2.png)
+![Screenshot from 2024-07-15 17-47-42](https://github.com/user-attachments/assets/ff659b4e-0a44-4bc3-9b56-24a1fb31b806)
 
 ---
 
