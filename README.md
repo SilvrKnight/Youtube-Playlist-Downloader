@@ -13,11 +13,6 @@ Download YouTube playlists effortlessly using Python and yt_dlp.
 
 Authors: [SilvrKnight](https://github.com/SilvrKnight) & [Akanksha](https://github.com/Akanksha54) 🚀
 
----
-
-Feel free to further customize and expand this README based on additional features or specific instructions for your project.
----
-
 ## Features 🌟
 
 - **Multi-threaded downloading:** Concurrently download multiple videos for optimal speed 🚀.
