@@ -1,9 +1,5 @@
 # YouTube Playlist Downloader 🎥📥
 
----
-
-# YouTube Playlist Downloader 🎥📥
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/SilvrKnight/Youtube-Playlist-Downloader)
 ![GitHub contributors](https://img.shields.io/github/contributors/SilvrKnight/Youtube-Playlist-Downloader)
 ![GitHub stars](https://img.shields.io/github/stars/SilvrKnight/Youtube-Playlist-Downloader?style=social)
